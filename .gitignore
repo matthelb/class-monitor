@@ -1,1 +1,3 @@
 *.sqlite
+config.php
+dbconfig.php
